@@ -1,0 +1,2 @@
+What is a package manager ? Why is it useful ?
+--> A package manager is a tool that helps us install, update and uninstall software on our computer.Package managers make software installation and updates easier. They automatically handle dependencies required by software and help users manage installed packages from one place.
