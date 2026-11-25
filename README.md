@@ -30,3 +30,12 @@ Python, number systems, GitHub and computer networks.
 ## Progress
 Each mission will be documented separately and committed to GitHub.
 
+
+
+
+## My Learning
+
+- I learned how to use Git and GitHub to track changes in a project.
+- I learned how to use branches to work on changes separately.
+- I learned how to use the terminal to manage files and directories.
+
